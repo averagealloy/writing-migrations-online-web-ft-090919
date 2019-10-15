@@ -1,1 +1,1 @@
-class ChangeDatatypeForBir
+class ChangeDatatypeForBirth
