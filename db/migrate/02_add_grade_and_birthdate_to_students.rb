@@ -1,5 +1,5 @@
 class AddFavoriteFoodToArtists < ActiveRecord::Migration[5.2]
  def change
-   add_column :arti
+   add_column :stu
  end
 end
