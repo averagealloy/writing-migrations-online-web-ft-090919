@@ -12,6 +12,6 @@
 
 ActiveRecord::Schema.define(version: 1) do
 
-  create_table "stud"
+  create_table "students"
 
 end
