@@ -1,1 +1,1 @@
-class ChangeDatatypeForBirthday < ActiveRec
+class ChangeDatatypeForBirthday < ActiveRecord
