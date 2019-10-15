@@ -1,3 +1,3 @@
 class ChangeDatatypeForBirthday < ActiveRecord::Migration[5.2]
   def change
-    change_colum
+    change_colu
