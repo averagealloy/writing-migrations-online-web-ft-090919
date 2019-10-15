@@ -1,5 +1,5 @@
 class CreateStudents < ActiveRecord::Migration[5.2]
   def change
-    create_table :students d
+    create_table :students do ||
   end
 end
