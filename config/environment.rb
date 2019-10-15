@@ -1,5 +1,5 @@
 require 'bundler/setup'
-require 'act'
+require 'active'
 Bundler.require
 
 Dir[File.join(File.dirname(__FILE__), "../app/models", "*.rb")].each {|f| require f}
