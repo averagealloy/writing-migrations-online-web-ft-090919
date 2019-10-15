@@ -14,5 +14,6 @@ ActiveRecord::Schema.define(version: 1) do
 
   create_table "students", force: :cascade do |t|
     t.integer "name"
+    
 
 end
