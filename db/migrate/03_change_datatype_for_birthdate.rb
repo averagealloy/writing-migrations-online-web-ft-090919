@@ -1,1 +1,1 @@
-class ChangeDatatypeForBirthday < Ac
+class ChangeDatatypeForBirthday < Active
