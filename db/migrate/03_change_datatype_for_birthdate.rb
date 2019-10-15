@@ -1,1 +1,1 @@
-class ChangeData
+class ChangeDatatype
