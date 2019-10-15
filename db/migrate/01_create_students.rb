@@ -1,3 +1,3 @@
 class CreateStudents < ActiveRecord::Migration[5.2]
-  def
+  def chan
 end
