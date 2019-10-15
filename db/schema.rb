@@ -12,6 +12,6 @@
 
 ActiveRecord::Schema.define(version: 1) do
 
-  create_
+  create_table 
 
 end
