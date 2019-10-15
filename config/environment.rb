@@ -1,5 +1,8 @@
 
-
+require 'rake'
+require 'active_record'
+require 'yaml/store'
+require 'ostruct'
 
 require 'bundler/setup'
 
