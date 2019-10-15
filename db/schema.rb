@@ -12,6 +12,6 @@
 
 ActiveRecord::Schema.define(version: 1) do
 
-  c
+  create_
 
 end
