@@ -1,1 +1,1 @@
-class ChangeDatatypeForBirthday < Active
+class ChangeDatatypeForBirthday < ActiveRec
